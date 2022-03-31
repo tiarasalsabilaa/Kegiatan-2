@@ -1,5 +1,5 @@
 [Project]
-FileName=warung makan.dev
+FileName=studi kasus 2.dev
 Name=Project1
 Type=1
 Ver=2
@@ -51,7 +51,7 @@ AutoIncBuildNr=0
 SyncProduct=1
 
 [Unit1]
-FileName=warung makan.cpp
+FileName=studi kasus 2.cpp
 CompileCpp=1
 Folder=
 Compile=1
